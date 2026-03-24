@@ -2,5 +2,7 @@
 This project will help to understand the drives of car sales.
 ## used data
 car sales
-##used packages
-1.
+## used packages
+1.pandas
+2.numpy
+3.sklearn
